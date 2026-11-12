@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Visual Feature Extraction"
+  short_description: "Reproduce and review approved UI feature extraction"
+  default_prompt: "Use $thesis-visual-feature-extraction to inspect or reproduce the approved thesis extraction pipeline while preserving existing results."
